@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Hollow Knight App</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_about">Hello blank about</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_message">Don\'t have account? Register</string>
+    <string name="register">Register</string>
+    <string name="empty_error">This field must be filled</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="login_message">Have an account? Login</string>
+    <string name="email_validation">Enter a valid email address!</string>
+    <string name="success">Success</string>
+    <string name="register_success">Registration is successfull!</string>
+    <string name="radio_admin">Admin</string>
+    <string name="radio_user">User</string>
+    <string name="roles">Register as:</string>
+    <string name="kelompok_8">Kelompok 8</string>
+    <string name="anggota1">Ivanston Simbolon</string>
+    <string name="anggota2">Michael Napitupulu</string>
+    <string name="anggota3">Moranda Haloho</string>
+    <string name="anggota4">Rolasta Sitorus</string>
+    <string name="anggota5">Samuel I. H. Sibuea</string>
+    <string name="gender">Gender</string>
+</resources>
