@@ -102,7 +102,7 @@ class LoginActivity : AppCompatActivity(), AuthenticationCallback {
                 else->{
                     binding.textInputLayoutEmail.error = ""
                     binding.textInputLayoutPassword.error = ""
-                    loginViewModel.validateLogin(email,password, this)
+                    loginViewModel.validateLogin(email, password, this)
                 }
             }
         }

@@ -56,6 +56,7 @@ class LoginViewModel(private val pref: UserPreference):ViewModel() {
                     if(responseBody !=null && responseBody.status == "OK"){
                         login()
                         val logged = responseBody.data
+                        Log.e("tes", logged.toString())
                         saveUser(
                             UserModel(
                                 logged.name,

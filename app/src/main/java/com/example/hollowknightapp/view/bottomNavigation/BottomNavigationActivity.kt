@@ -69,7 +69,6 @@ class BottomNavigationActivity : AppCompatActivity() {
         when(item.itemId){
             R.id.logout->{
                 bottomNavigationViewModel.logout()
-
                 val intent = Intent(this@BottomNavigationActivity, LoginActivity::class.java)
                 startActivity(intent)
             }
